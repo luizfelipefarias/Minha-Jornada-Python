@@ -1,0 +1,32 @@
+# AT-python 🐍
+
+Este repositório foi criado com o objetivo de reunir exercícios, desafios e provas relacionados à minha aprendizagem em **Python**.
+
+## 📚 Conteúdo
+
+### 1. Desafios e Questões do Curso em Vídeo - Gustavo Guanabara
+Contém a resolução dos exercícios propostos durante o curso de Python do professor Gustavo Guanabara. Organizados por aula, com código comentado para facilitar o entendimento.
+
+### 2. Prova de Lógica de Programação
+Inclui as questões da minha prova de lógica de programação, resolvidas em Python. Cada questão está em um arquivo separado com explicações sobre a lógica utilizada.
+
+## 🛠️ Tecnologias Utilizadas
+- Python 3.x
+- VS Code (opcional)
+- Git & GitHub
+
+## 📁 Organização das Pastas
+
+python-AT-/
+│
+├── guanabara-AT/
+│   ├── aula01_ex1.py
+│   ├── aula02_ex2.py
+│   └── ...
+│
+├── prova-logica/
+│   ├── questao1.py
+│   ├── questao2.py
+│   └── ...
+│
+└── README.md
