@@ -38,21 +38,18 @@ Pasta dedicada a registrar minhas reflexões sobre o aprendizado de Python: difi
 
 ## 📁 Estrutura do Projeto
 
-python-AT/
-│
-├── guanabara-AT/
-│ ├── desafio1.py
-│ ├── desafio2.py
-│ ├── desafio3.py
-│ ├── desafio4_correto.py
-│ └── desafio4_errado.py
-│
-├── prova-logica/ # (a criar futuramente)
-│
-├── reflexoes/
-│ └── minha_jornada.md
-│
-└── README.md
+python-AT/  
+├── guanabara-AT/  
+│   ├── desafio1.py  
+│   ├── desafio2.py  
+│   ├── desafio3.py  
+│   ├── desafio4_correto.py  
+│   └── desafio4_errado.py  
+├── prova-logica/  # (a criar futuramente)  
+├── reflexoes/  
+│   └── minha_jornada.md  
+└── README.md  
+
 
 ## 🚀 Objetivo
 Documentar minha jornada de aprendizado com Python, servindo como portfólio pessoal e ferramenta de estudo contínuo.
