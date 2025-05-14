@@ -31,7 +31,7 @@ Pasta dedicada a registrar minhas reflexões sobre o aprendizado de Python: difi
 ## 🛠️ Tecnologias Utilizadas
 
 - Python 3.x
-- VS Code (opcional)
+- VS Code 
 - Git & GitHub
 
 ---
