@@ -1,5 +1,31 @@
-# Usando métodos como .isalpha() para "dissecar" uma variável em Python
+#Questao errada 
+ #Motivo do erro falhei no entendimento sobre a questão
+print("----------------Desafio 04------------------")
+ #Pedindo tipo String(char/caractere)
+texto_string=input("Digite texto: ")
+ #Saida
+print(type(texto_string))
+print("--------------------------------------------")
 
+ #Pedindo tipo int(inteiro)
+numero_int=int(input("Digite um numero: "))
+ #Saida
+print(type(numero_int))
+print("--------------------------------------------")
+ #Pedindo tipo float(Numeros reias)
+numero_float=float(input("Digite um numero com ponto: "))
+#Saida
+print(type(numero_float))
+print("--------------------------------------------")
+ #Pedindo tipo bool(booleano/Verdadeiro ou Falso)
+saida_bool=bool(input("Digite True or False: "))
+#Saida
+print(type(saida_bool))
+print("--------------------------------------------")
+
+
+#Questao certa
+# Usando métodos como .isalpha() para "dissecar" uma variável em Python
 print("----------------Desafio 04------------------")
 
 a = input('Digite algo: ')

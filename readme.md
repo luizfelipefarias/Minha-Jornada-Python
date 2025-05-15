@@ -43,8 +43,8 @@ python-AT/
 │   ├── desafio1.py  
 │   ├── desafio2.py  
 │   ├── desafio3.py  
-│   ├── desafio4_correto.py  
-│   └── desafio4_errado.py  
+│   └── desafio4.py  
+│    
 ├── prova-logica/  # (a criar futuramente)  
 ├── reflexoes/  
 │   └── minha_jornada.md  

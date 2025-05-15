@@ -17,7 +17,7 @@
 - **`desafio4.py`**  
   - Mesmo não seguindo exatamente o que a questão pedia, consegui obter um resultado funcional.  
   - Cometi um erro conceitual ao usar **`print(type(numero_float))`** para "dissecar" a variável.  
-  - O correto seria usar métodos como **`.isalpha()`**, **`.isdigit()`**, etc., como fiz depois em **`desafio4_correto.py`**.  
+  - O correto seria usar métodos como **`.isalpha()`**, **`.isdigit()`**, etc., como fiz depois no final do **`desafio4.py`**.  
 
 - **`desafio7.py`**  
   - Descobri que posso reutilizar nomes de variáveis após um **`print()`** no caso de **`input()`**, sem problemas.  
