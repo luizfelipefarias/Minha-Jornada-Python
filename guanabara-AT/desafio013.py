@@ -1,12 +1,18 @@
 print("----------------Desafio 13------------------")
-#Entrada de dados
-salario=float(input('Digite seu salrio: '))
-print('-'*44)
-#aumento de 15%
-aumento=15
-#calculando o aumento
-calculando_salario=salario*aumento/100
-#aplciando o aumento
-novo_salario=salario + calculando_salario
-#Saida de dados
-print(f'O seu salrio sem aumento é de {salario:.2f} e o seu novo salario com aumento é de {novo_salario:.2f}')
+
+# Entrada de dados
+salario = float(input("Digite seu salário: R$ "))
+print("-" * 44)
+
+# Porcentagem de aumento
+AUMENTO = 15
+
+# Calculando o novo salário
+novo_salario = ((salario * AUMENTO) / 100)
+
+salario_aumento=salario + novo_salario
+
+# Saída de dados
+print(f"O seu salário sem aumento é de R$ {salario:.2f} ")
+print(f'O seu novo salário com aumento de {AUMENTO}% é de R$ {salario_aumento:.2f}')
+print("-" * 44)

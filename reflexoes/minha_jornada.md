@@ -30,6 +30,8 @@
 - **`desafio010.py`**  
   - Aprendi a usar formatação de números com `:.2f` para limitar casas decimais na saída.  
 
+- **`desafio010.py`**  
+  - Aprendi a usar letras maiúsculas em DOLAR e EURO para indicar que são valores fixos, seguindo as boas práticas de Python
 ---
 
 💡 **Aprendizado importante:**  

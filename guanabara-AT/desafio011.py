@@ -1,22 +1,23 @@
 print("----------------Desafio 11------------------")
-#Entrada de texto
-largura=float(input('Qual a largura da parede: '))
-print('-'*44)
-altura=float(input('Qula a altura da parede: '))
 
-#quantidade da tinta
-tinta=2
-#calculando area
-area=altura*largura
+# Entrada de texto
+largura = float(input("Qual a largura da parede (em metros): "))
+altura = float(input("Qual a altura da parede (em metros): "))
 
-print('-'*44)
-#printando area
-print(f'A area de sua parede é de {area:.2f}')
+# Quantidade de tinta necessária (2m² por litro)/constante
+TINTA = 2
 
-#calculando gastos de tinta
-litros=area/2
+# Calculando a área
+area = altura * largura
 
-#printando gastos de tinta
-print('-'*44)
-print(f'Você vai gastar {litros:.2f} litros de tinta por area de {area}')
-print('-'*44)
+print("-" * 44)
+# Exibindo a área
+print(f"A área da sua parede é de {area:.2f} m²")
+
+# Calculando o gasto de tinta
+litros = area / TINTA
+
+# Exibindo o gasto de tinta
+print("-" * 44)
+print(f"Você vai gastar aproximadamente {litros:.2f} litros de tinta para pintar {area:.2f} m²")
+print("-" * 44)

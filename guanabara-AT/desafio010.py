@@ -1,13 +1,17 @@
 print("----------------Desafio 10------------------")
-#Entrada de texto
-dinheiro=float(input('Digite quanto você tem na carteira: R$:'))
+# Entrada de texto
+dinheiro = float(input('Digite quanto você tem na carteira: R$: '))
 
-#valor do dolar
-dolar=3.27
-#calculando o valor
-conversor= dinheiro/dolar
+# Valor da cotação atual/constante
+DOLAR = 5.66
+EURO = 6.33
 
-print('-'*44)
-#saida de texto
-print(f'Seu valar em dolar é de : {conversor:.2f}')
-print('-'*44)
+# Calculando o valor
+conversor_dolar = dinheiro / DOLAR
+conversor_euro = dinheiro / EURO
+
+print('-' * 44)
+# Saída de texto
+print(f'Seu valor em dólar é de: $ {conversor_dolar:.2f}')
+print(f'Seu valor em euro é de: € {conversor_euro:.2f}')
+print('-' * 44)
