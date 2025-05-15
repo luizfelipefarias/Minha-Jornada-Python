@@ -17,7 +17,7 @@ print(f'O dobro do {num} é {dobro}')
 print('-'*44)
 print(f'O triblo do {num} é {triblo}')
 print('-'*44)
-print(f'A raiz quadrada do seu numero é {raiz_quadrada1}')
+print(f'A raiz quadrada do seu numero é {raiz_quadrada1:.2f}')
 
 print('-'*44)
 #Pedindo um segundo numero para usar raiz quadrada da biblioteca math
@@ -31,4 +31,4 @@ raiz_quadrada2 = math.sqrt(num2)
 
 #printando na tela
 print(f'-----------Raiz quadrada usando a biblioteca math------------')
-print(f'{raiz_quadrada2}')
+print(f'{raiz_quadrada2 :.2f}')
