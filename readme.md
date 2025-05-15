@@ -12,7 +12,7 @@ Contém a resolução dos exercícios e desafios propostos durante o curso de Py
 
 📂 **Caminho:** `guanabara-AT/`
 
-- ✅ `desafio1.py` — Primeiro desafio resolvido!
+- ✅ `desafio001.py` — Primeiro desafio resolvido!
 
 ### 2. Prova de Lógica de Programação *(em breve)*
 
@@ -40,10 +40,10 @@ Pasta dedicada a registrar minhas reflexões sobre o aprendizado de Python: difi
 
 python-AT/  
 ├── guanabara-AT/  
-│   ├── desafio1.py  
-│   ├── desafio2.py  
-│   ├── desafio3.py  
-│   └── desafio4.py  
+│   ├── desafio001.py  
+│   ├── desafio002.py  
+│   ├── desafio003.py  
+│   └── desafio004.py  
 │    
 ├── prova-logica/  # (a criar futuramente)  
 ├── reflexoes/  
