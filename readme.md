@@ -12,7 +12,7 @@ Contém a resolução dos exercícios e desafios propostos durante o curso de Py
 
 📂 **Caminho:** `guanabara-AT/`
 
-- ✅ `desafio1.py` — Primeiro desafio resolvido!
+- ✅ `desafio001.py` — Primeiro desafio resolvido!
 
 ### 2. Prova de Lógica de Programação *(em breve)*
 
