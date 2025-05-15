@@ -1,12 +1,13 @@
 #Tipos primitivos 
 
- #Motivo do erro falho entendimento sobre a questão
+ #Motivo do erro falhei entendimento sobre a questão
 print("----------------Desafio 04------------------")
  #Pedindo tipo String(char/caractere)
 texto_string=input("Digite texto: ")
  #Saida
 print(type(texto_string))
 print("--------------------------------------------")
+
  #Pedindo tipo int(inteiro)
 numero_int=int(input("Digite um numero: "))
  #Saida
