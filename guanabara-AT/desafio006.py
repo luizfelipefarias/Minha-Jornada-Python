@@ -1,6 +1,6 @@
 print("----------------Desafio 06------------------")
 #Importando um biblioteca de matematica
-import math
+from math import sqrt
 
 #ler o numero na tela
 num = int(input('Digite seu numero: '))
@@ -15,7 +15,7 @@ raiz_quadrada1 = num**(1/2)
 #printando na tela
 print(f'O dobro do {num} é {dobro}')
 print('-'*44)
-print(f'O triblo do {num} é {triblo}')
+print(f'O triplo do {num} é {triblo}')
 print('-'*44)
 print(f'A raiz quadrada do seu numero é {raiz_quadrada1:.2f}')
 
@@ -25,9 +25,9 @@ num2=int(input('Digite seu segundo numero: '))
 
 
 #raiz_quadrada2=> essa parte e a variavel
-#math.sqrt(num2)=> math. chama a biblioteca 
-# já math.sqrt(num2) =>unsando a estrtura para calcular raiz
-raiz_quadrada2 = math.sqrt(num2)
+#math.sqrt(num2)=> math. chama a biblioteca -->caso importou toda a biblioteca
+# já sqrt(num2) =>usando a estrtura para calcular raiz
+raiz_quadrada2 = sqrt(num2)
 
 #printando na tela
 print(f'-----------Raiz quadrada usando a biblioteca math------------')
